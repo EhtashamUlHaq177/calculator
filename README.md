@@ -14,4 +14,4 @@ Performs basic arithmetic operations and includes input/output validation.
 - Simple UI
 
 ## 🚀 Live Demo
-> Will be available after enabling GitHub Pages
+https://ehtashamulhaq177.github.io/calculator/
