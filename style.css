@@ -1,0 +1,39 @@
+h1{
+    text-align: center;
+}
+
+.container{
+    height: 80vh;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    
+}
+.row{
+ margin: 5px;
+}
+
+.button{
+    height: 55px;
+    width: 47px;
+    border: 5px solid black;
+    border-radius: 8px;
+    cursor: pointer;
+    margin: 0 5px;
+    font-size:25px ;
+}
+.row input{
+    font-size: 17px;
+    padding: 8px ;
+    border:  5px solid black;
+    border-radius: 8px;
+    background-color: rgb(210, 205, 205);cd
+
+}
+ .clear{
+    width: 105px;
+}
+ .equal{
+    width: 105px;
+}
